@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <br>
-I am Aaryan Sharma
+I am Aaryan Sharma!
 =====================================================================================================================================
 
 Web Developer and Designer
 --------------------------
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Mumbai,India
 * ✉️  You can contact me at [aaryansharmaa23@gmail.com](mailto:aaryansharmaa23@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Web Development

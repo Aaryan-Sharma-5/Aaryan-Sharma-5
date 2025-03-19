@@ -8,7 +8,7 @@ Web Developer and Designer
 
 * 🌍  I'm based in Mumbai,India
 * ✉️  You can contact me at [aaryansharmaa23@gmail.com](mailto:aaryansharmaa23@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Backend
 * 🤝  I'm open to collaborating on Web Development
 
 ### Skills
@@ -27,10 +27,6 @@ Web Developer and Designer
 
 <b>My GitHub Stats</b>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryan-sharma-5&show_icons=true&locale=en&layout=compact" alt="aaryan-sharma-5" /></p>
+
 <a href="http://www.github.com/Aaryan-Sharma-5"><img src="https://github-readme-stats.vercel.app/api?username=Aaryan-Sharma-5&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aaryan-Sharma-5's GitHub stats" /></a>
-
-<a href="http://www.github.com/Aaryan-Sharma-5"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryan-Sharma-5&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Aaryan-Sharma-5"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aaryan-Sharma-5&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Aaryan-Sharma-5" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan-Sharma-5&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

@@ -4,7 +4,10 @@ I am Aaryan Sharma!
 =====================================================================================================================================
 
 # 💫 About Me:
-🌍 I'm based in Mumbai,India<br>🔭 I’m currently working on MERN stack<br>👯 I’m looking to collaborate on Web Based Projects<br>🌱 I’m currently learning Backend<br>⚡ There are around 700 programming languages! 
+🌍 I'm based in Mumbai,India<br>🔭 I’m currently working on MERN stack<br>👯 I’m looking to collaborate on Web Based Projects<br>🌱 I’m currently learning Backend<br>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aaryan-Sharma-5&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="Aaryan-Sharma-5" /> </p>
 
 
 ## 🌐 Socials:
@@ -21,7 +24,4 @@ I am Aaryan Sharma!
 ![](https://github-profile-trophy.vercel.app/?username=Aaryan-Sharma-5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aaryan-Sharma-5&icon=0&color=0)](https://visitcount.itsvg.in)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aaryan-Sharma-5&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="Aaryan-Sharma-5" /> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
